@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Submission</string>
+    <string name="app_name">DuniaBuku</string>
+    <string name="book_title">Judul Buku</string>
+    <string name="book_detail">Detail</string>
+    <string name="list">List</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
 </resources>
